@@ -37,7 +37,7 @@ const PROJECTS = [
     name: "Wash Pass",
     role: "Product mock",
     body: "TypeScript prototype for a subscription car-wash pass, from flow to interface.",
-    href: "https://wash-pass-io-mock.vercel.app",
+    href: "https://wash-pass-io-mock.luqmanabdullah2005.workers.dev/",
     image: shotWashpass,
   },
 ];
