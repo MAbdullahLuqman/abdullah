@@ -1,6 +1,7 @@
 import shotPitchside from "@/assets/proj-pitchside.jpg";
 import shotAsa from "@/assets/proj-asa.jpg";
 import shotFlowvix from "@/assets/proj-flowvix.jpg";
+import shotBroadway from "@/assets/proj-broadway.jpg";
 import shotSeo from "@/assets/proj-seo.jpg";
 import shotWashpass from "@/assets/proj-washpass.jpg";
 
@@ -25,6 +26,13 @@ const PROJECTS = [
     body: "Agency platform for AI voice agents, WhatsApp chatbots and custom n8n workflows that capture leads around the clock.",
     href: "https://flowvix-solutions.vercel.app",
     image: shotFlowvix,
+  },
+  {
+    name: "250 Broadway",
+    role: "Real estate landing page",
+    body: "A polished office-leasing site for a Lower Manhattan tower overlooking City Hall Park.",
+    href: "https://broadway-hub.luqmanabdullah2005.workers.dev/",
+    image: shotBroadway,
   },
   {
     name: "SEO Manager",
